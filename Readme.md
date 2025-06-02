@@ -1,7 +1,8 @@
 # 💡 Injection des dépendances en Java – Exercice de cours
 
 Ce projet Java illustre différentes techniques d'injection de dépendances à travers un exemple simple basé sur les vidéos pédagogiques fournies en cours.
-
+![img.png](img.png)
+le diagramme de classe 
 ## 🧱 Architecture générale
 
 Le projet est composé de trois couches :
